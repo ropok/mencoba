@@ -1,0 +1,11 @@
+GitBash
+
+1. git init
+2. git config --global user.email "____"
+3. git config --global user.name "____"
+4. git remote add origin LINK
+5. git remote -v
+
+6. git add .
+7. git commit -m "your Commit"
+8. git push origin master
